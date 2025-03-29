@@ -9,5 +9,6 @@
 1. Clone repository in your folder
     ```
     git clone https://github.com/Kayrit0/telegram-admin.git
+    cd telegram-admin
     ```
 2.
