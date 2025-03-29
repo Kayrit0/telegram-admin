@@ -4,7 +4,7 @@ import "dotenv/config";
 const API_URL = `https://apis.roblox.com/cloud/v2/universes/${process.env.ROBLOX_UNIVERSE_ID}:publishMessage`;
 
 const admins = [
-    "kmdz3138", // add here admins
+    "user123", // add here admins
 ];
 
 export const bot = new Bot(process.env.BOT_API_KEY || "");
@@ -29,7 +29,7 @@ bot.command("kick", async (context) => {
 });
 
 bot.start();
-console.log("started bot");
+console.log("bot started");
 
 async function sendUniverseMessage(data: IUniverseMessage) {
     try {
