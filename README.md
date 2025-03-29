@@ -1,4 +1,4 @@
-### - EN
+### \* EN
 
 # Requirements
 
@@ -42,7 +42,7 @@
 12. Publish your game
 13. Enjoy!
 
-### - RU
+### \* RU
 
 # Требования
 
